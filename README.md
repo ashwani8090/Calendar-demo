@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Calendar Event App
+
+![Screenshot from 2022-08-19 21-31-46](https://user-images.githubusercontent.com/46552218/185660244-41a4e72b-5869-4b47-bf23-45ffcdd32bc4.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
