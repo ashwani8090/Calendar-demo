@@ -1,0 +1,16 @@
+.calendar-page{
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: gray;
+    justify-content: space-between;
+    padding: 50px;
+}
+.fc .fc-button-primary{
+    background-color: #0e9dc5 !important;
+    border-color: #0e9dc5 !important
+}
+.fc .fc-toolbar-title{
+    color: #000000 !important;
+    font-weight: bold;
+}

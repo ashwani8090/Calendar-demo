@@ -1,0 +1,38 @@
+.app-header {
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    background-color: rgb(237 236 236);
+    border: 1px solid rgb(189, 186, 186);
+    justify-content: center;
+}
+
+.app-header-left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+.app-header-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.app-header-title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: gray;
+}
+.calendar-icon {
+    color: gray;
+}
